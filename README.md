@@ -1,8 +1,12 @@
 <h1 align=center>A New Era Has Begun</h1>
 
+<img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=1000px height=95px>
+
 <h3> ⚙️ &nbsp;My Skills</h3>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=My+Skills;HTML%2C+CSS%2C+Bootstrap%2C+SASS%2C+JavaScript%2C+Json)
+
+<img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=1000px height=95px>
 
 <h3> ⚙️ &nbsp;GitHub Analytics</h3>
 
@@ -12,6 +16,8 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marwanzayed-coder&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
+
+<img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=1000px height=95px>
 
 - 👋 Hi, I’m Marwan Zayed
 - 👀 I’m interested in Web Domain
