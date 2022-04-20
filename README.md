@@ -25,7 +25,7 @@
 - 💞️ I’m looking to collaborate on Google
 - 🏫 I learn from Elzero Web School
 - 🔭 I am currently working on learning Json and Ajax
-- 💬 This is my portfolio: [portfolio](https://marwanzayed-coder.github.io/portfolio/)
+- 💬 This is my portfolio: [portfolio](https://www.marwan.gq/)
 - My testimony is from a barmej platform [from here](https://app.barmej.com/user/Marwan-Zayed)
 
 
