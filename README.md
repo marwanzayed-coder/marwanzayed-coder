@@ -1,10 +1,11 @@
-<h1 align=center>A New Era Has Begun</h1>
+<h1>👋 Hi, I’m Marwan Zayed</h1>
 
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=1000px height=95px>
 
 <h3> ⚙️ &nbsp;My Skills</h3>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=My+Skills;HTML%2C+CSS%2C+Bootstrap%2C+SASS%2C+JavaScript%2C+Json)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cairo&width=500&lines=My+Skills;HTML%2C+CSS%2C+JS%2C+Sass%2C+Bootstrap%2C+React%2C+Express)
+
 
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=1000px height=95px>
 
@@ -19,7 +20,6 @@
 
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=1000px height=95px>
 
-- 👋 Hi, I’m Marwan Zayed
 - 👀 I’m interested in Web Domain
 - 🌱 I’m currently learning Web
 - 💞️ I’m looking to collaborate on Google
